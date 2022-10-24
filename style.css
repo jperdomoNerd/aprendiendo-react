@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h2 {
+    margin: 1em;
+}
+input {
+    padding: 5px;
+    width: 16rem;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 6px;
+    margin: 1rem;
+}
+button {
+    padding: 5px;
+    border-radius: 6px;
+    font-weight: 600;
+    background: deepskyblue;
+}
